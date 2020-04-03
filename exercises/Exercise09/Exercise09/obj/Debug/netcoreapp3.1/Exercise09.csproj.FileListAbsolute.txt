@@ -1,0 +1,13 @@
+C:\Users\ryanm\Desktop\ERAU MSSA\GitHub Files\ISTA-421\exercises\Exercise09\Exercise09\bin\Debug\netcoreapp3.1\Exercise09.exe
+C:\Users\ryanm\Desktop\ERAU MSSA\GitHub Files\ISTA-421\exercises\Exercise09\Exercise09\obj\Debug\netcoreapp3.1\Exercise09.csprojAssemblyReference.cache
+C:\Users\ryanm\Desktop\ERAU MSSA\GitHub Files\ISTA-421\exercises\Exercise09\Exercise09\obj\Debug\netcoreapp3.1\Exercise09.AssemblyInfoInputs.cache
+C:\Users\ryanm\Desktop\ERAU MSSA\GitHub Files\ISTA-421\exercises\Exercise09\Exercise09\obj\Debug\netcoreapp3.1\Exercise09.AssemblyInfo.cs
+C:\Users\ryanm\Desktop\ERAU MSSA\GitHub Files\ISTA-421\exercises\Exercise09\Exercise09\bin\Debug\netcoreapp3.1\Exercise09.deps.json
+C:\Users\ryanm\Desktop\ERAU MSSA\GitHub Files\ISTA-421\exercises\Exercise09\Exercise09\bin\Debug\netcoreapp3.1\Exercise09.runtimeconfig.json
+C:\Users\ryanm\Desktop\ERAU MSSA\GitHub Files\ISTA-421\exercises\Exercise09\Exercise09\bin\Debug\netcoreapp3.1\Exercise09.runtimeconfig.dev.json
+C:\Users\ryanm\Desktop\ERAU MSSA\GitHub Files\ISTA-421\exercises\Exercise09\Exercise09\bin\Debug\netcoreapp3.1\Exercise09.dll
+C:\Users\ryanm\Desktop\ERAU MSSA\GitHub Files\ISTA-421\exercises\Exercise09\Exercise09\bin\Debug\netcoreapp3.1\Exercise09.pdb
+C:\Users\ryanm\Desktop\ERAU MSSA\GitHub Files\ISTA-421\exercises\Exercise09\Exercise09\obj\Debug\netcoreapp3.1\Exercise09.dll
+C:\Users\ryanm\Desktop\ERAU MSSA\GitHub Files\ISTA-421\exercises\Exercise09\Exercise09\obj\Debug\netcoreapp3.1\Exercise09.pdb
+C:\Users\ryanm\Desktop\ERAU MSSA\GitHub Files\ISTA-421\exercises\Exercise09\Exercise09\obj\Debug\netcoreapp3.1\Exercise09.csproj.CoreCompileInputs.cache
+C:\Users\ryanm\Desktop\ERAU MSSA\GitHub Files\ISTA-421\exercises\Exercise09\Exercise09\obj\Debug\netcoreapp3.1\Exercise09.genruntimeconfig.cache

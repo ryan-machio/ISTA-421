@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MsfcDHz4+X1he1SymPVQPlKxTS8niuPmKrYdWxBi2tIykb4RRan4+lwo982S/y0ppbTnLJpEXAIa+MTm+rRQwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ryanm\\Desktop\\ERAU MSSA\\GitHub Files\\ISTA-421\\exercises\\Exercise09\\Exercise09\\Exercise09.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ryanm\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ryanm\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\ryanm\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\ryanm\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
